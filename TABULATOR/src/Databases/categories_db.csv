@@ -1,0 +1,12 @@
+category_id,score,weight,total_score,name,description
+1,0.0,10.0,0.0,Best in Uniform,Beauty/Appearance and Poise: 60%; Presentation & Neatness: 40%
+2,0.0,10.0,0.0,Talent,Execution & Skill: 50%; Creativity and Originality: 30%; Stage Presence & Overall Performance: 20%
+3,0.0,10.0,0.0,Question and Answer,Content of Speech: 50%; Presentation and Delivery: 50%
+4,0.0,10.0,0.0,Advocacy Speech,Content of Speech: 50%; Presentation and Delivery: 50%
+5,0.0,15.0,0.0,Best in Production,Stage Presence: 40%; Beauty/Appearance and Poise: 50%; Audience Impact: 10%
+6,0.0,15.0,0.0,Best in Summer Wear,Stage Presence: 40%; Beauty/Appearance and Poise: 50%; Audience Impact: 10%
+7,0.0,20.0,0.0,Best in Evening Wear,Stage Presence: 40%; Beauty/Appearance and Poise: 50%; Audience Impact: 10%
+8,0.0,10.0,0.0,Casual Interview / Hashtag,Delivery/Confidence: 40%; Content of Answer: 50%; Audience Impact: 10%
+9,0.0,10.0,0.0,Peoples Choice Award,Social Media Engagement: 50%; Authenticity: 40%; Positive Impact: 10%
+10,0.0,40.0,0.0,Beauty/Appearance,Final criteria for top 5: 40%
+11,0.0,60.0,0.0,Intelligence (Q&A),Final criteria for top 5: 60%
